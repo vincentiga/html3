@@ -1,0 +1,84 @@
+!DOCTYPE html>
+
+<html lang="fr">
+
+    <head>
+
+        <meta charset="utf-8" />
+
+        <link rel="stylesheet" href="style.css" />
+
+        <title>odyssey 03</title>
+
+    </head>
+
+
+    <body>
+
+    	<header>
+    		<h1>FindThePrecious.com</h1>
+    		<h1>Fellows</h1>
+    		<h1>Contact us</h1>
+    	</header>
+    	<section>
+    		<h2>Dangerous fellowship try to destroy the ring</h2>
+    		<p>Orcs, Goblins, Balrogs, protect your master Sauron!</p>
+    	</section>
+    	<section>
+    		<h2>Fellows wanted dead (or alive if you want to eat them later)</h2>
+    	</section>
+    	<section>
+    		<h2>Reward 1000 gold coins</h2>
+    		<figure>
+    			<img src="https://via.placeholder.com/150" alt="placeholder" />
+    			<figcaption>The Wizard</figcaption>
+    		</figure>
+    		<p>Eodem tempore Serenianus ex duce, cuius ignavia populatam in Phoenice Celsen ante rettulimus, pulsatae maiestatis imperii reus iure postulatus ac lege, incertum qua potuit suffragatione absolvi, aperte convictus familiarem suum cum pileo, quo caput operiebat, incantato vetitis artibus ad templum misisse fatidicum, quaeritatum expresse an ei firmum portenderetur imperium, ut cupiebat, et cunctum.</p>
+    			<p>Dead</p>
+    			<figure>
+	    			<img src="https://via.placeholder.com/150" alt="placeholder" />
+	    			<figcaption>Hobbit # 3</figcaption>
+	    		</figure>
+	    		<p>Post hanc adclinis Libano monti Phoenice, regio plena gratiarum et venustatis, urbibus decorata magnis et pulchris; in quibus amoenitate celebritateque nominum Tyros excellit, Sidon et Berytus isdemque pares Emissa et Damascus saeculis condita priscis.</p>
+	    	<p>Reward 250 gold coins</p>
+	    	<figure>
+	    		<img src="https://via.placeholder.com/150" alt="placeholder" />
+	    	</figure>
+	    	<p>Sed (saepe enim redeo ad Scipionem, cuius omnis sermo erat de amicitia) querebatur, quod omnibus in rebus homines diligentiores essent; capras et oves quot quisque haberet, dicere posse, amicos quot haberet, non posse dicere et in illis quidem parandis adhibere curam, in amicis eligendis neglegentis esse nec habere quasi signa quaedam et notas, quibus eos qui ad amicitias essent idonei, iudicarent. Sunt igitur firmi et stabiles et constantes eligendi; cuius generis est magna penuria. Et iudicare difficile est sane nisi expertum; experiendum autem est in ipsa amicitia. Ita praecurrit amicitia iudicium tollitque experiendi potestatem.</p>
+	    	</section>
+	    	<section>
+	    		<h2> Contact us</h2>
+	    		<form method="post" action="traitement.php">
+	    			<p>
+	    				<label for="mail"></label>
+	    				<input type="email" id="mail" name="email" />
+	    			</p>
+	    			<p>
+	    				<label for="text"></label>
+	    				<input type="text" id="adresse" />
+	    			</p>
+	    			<p>
+	    				<label for="text"></label>
+	    				<input type="text" id="text" />
+	    			</p>
+	    			<p>
+	    				<label for="message"></label>
+	    				<textarea id="message" name="your message"></textarea>
+	    			</p>	
+	    		</form>
+	    	</section>
+
+	    	<footer>
+	    		<p>About us</p>
+	    		<p>Fellows</p>
+	    		<p>Join our army</p>
+	    		<p>FAQ</p>
+	    		<p>Reward conditions</p>
+	    		<p>Legal mentions</p>
+	    		<p>Sauron4ever.com</p>
+	    		<p>Follow him also on twitter</p>
+	    	</footer>
+    
+
+    </body>
+</html>
